@@ -1,0 +1,6 @@
+<!--short explanation of why each list type was appropriate for its content-->
+<!--Unordered list — <ul>
+Used for the ingredients because their order does not matter. You can list rice, tomatoes, peppers, and other ingredients in any order.-->
+<!--Ordered list — <ol>
+Used for preparation steps because the cooking instructions must follow a particular sequence. The rice cannot be properly prepared by randomly mixing up the steps.-->
+<!--Description list (<dl>) for cooking terms. Each entry is a term paired with its definition, which is what <dt> (term) and <dd> (description) are for. A plain bullet list couldn’t show that pairing, and a glossary is exactly this kind of name-and-meaning content.-->
